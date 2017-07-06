@@ -32,3 +32,7 @@ http://composer.json.jolicode.com/
 If you don’t want it to install development dependencies, then you can use the following switch.
 
 composer update --no-dev
+
+use the composer self-update command to update the Composer binary itself
+
+There are more commands.
