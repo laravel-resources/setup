@@ -11,6 +11,9 @@ Be familiar with the followings:
 - templating
 - validation
 
+Laravel Cheat Sheet:
+
+http://cheats.jesse-obrien.ca/
 
 To Read:
 
