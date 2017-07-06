@@ -11,6 +11,10 @@ Be familiar with the followings:
 - templating
 - validation
 
+Checklist:
+
+https://github.com/chiraggude/awesome-laravel
+
 Laravel Cheat Sheet:
 
 http://cheats.jesse-obrien.ca/
