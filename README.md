@@ -22,3 +22,8 @@ http://cheats.jesse-obrien.ca/
 To Read:
 
 https://daylerees.com/codesmart/
+
+
+Composer Cheat Sheet:
+
+http://composer.json.jolicode.com/
