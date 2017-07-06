@@ -10,3 +10,8 @@ Be familiar with the followings:
 - models
 - templating
 - validation
+
+
+To Read:
+
+https://daylerees.com/codesmart/
