@@ -27,3 +27,8 @@ https://daylerees.com/codesmart/
 Composer Cheat Sheet:
 
 http://composer.json.jolicode.com/
+
+
+If you don’t want it to install development dependencies, then you can use the following switch.
+
+composer update --no-dev
