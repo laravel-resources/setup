@@ -35,4 +35,4 @@ composer update --no-dev
 
 use the composer self-update command to update the Composer binary itself
 
-There are more commands.
+There are more commands like --dev --save-dev
