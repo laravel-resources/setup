@@ -39,3 +39,7 @@ There are more commands like --dev --save-dev
 
 
 If you'd like to create your own configuration files, then simply drop them in the config directory. Laravel will load them automatically and will allow to you use them in the same way as its own configuration files. When writing applications for others, be sure to add as much configuration as possible. It's great when you can get an application to work your way.
+
+
+
+If a third party package comes with its own configuration files, simply use php artisan vendor:publish to copy them into your configuration directory.
