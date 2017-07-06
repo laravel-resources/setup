@@ -43,3 +43,11 @@ If you'd like to create your own configuration files, then simply drop them in t
 
 
 If a third party package comes with its own configuration files, simply use php artisan vendor:publish to copy them into your configuration directory.
+
+Cache the config:
+php artisan config:cache
+To clear cache:
+php artisan config:clear
+
+Download torrents:
+http://tparser.org/Laravel
