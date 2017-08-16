@@ -51,3 +51,6 @@ php artisan config:clear
 
 Download torrents:
 http://tparser.org/Laravel
+
+Open Sources:
+https://openlaravel.com/
